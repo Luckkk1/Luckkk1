@@ -6,7 +6,7 @@
   <p>And Korean! 🇰🇷<p>
 </ul>
 
-## Technologies 🥷
+## Technologies 🚀
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -14,7 +14,7 @@
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 
 
-## Stats
+## Stats 👀
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Luckkk1&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckkk1&hide=TeX&layout=compact)
