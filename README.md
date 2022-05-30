@@ -2,7 +2,7 @@
 
 ## About Me 😎
 <ul>
-  <p>I'm Frontend Developer 💻 ( but I will be a Fullstack Developer maybe someday!! )<p>
+  <p>I'm Frontend Developer 💻 ( I will be a Fullstack Developer maybe someday!! )<p>
   <p>And Korean! 🇰🇷<p>
 </ul>
 
