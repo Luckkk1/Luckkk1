@@ -13,6 +13,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 
+## My Plan 🌟
+ <p>React => Next.js => TypeScript => Git => Node.js </p>
+ <p>More To Learn: BEM / Sass / PostCss / TailWind / MaterialUi / StyledComponents / npm / yarn / Jest...</p>
+
 
 ## Stats 👀
 
