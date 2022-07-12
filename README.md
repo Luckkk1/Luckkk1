@@ -15,8 +15,8 @@
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 
 ## My Plan 🌟
- <p>React => Redux => Next.js => TypeScript => Git => Node.js </p>
- <p>More To Learn: BEM / Sass / PostCss / TailWind / MaterialUi / StyledComponents / npm / yarn / Jest...</p>
+ <p>React✅ => Redux => Next.js => TypeScript => Git => Node.js </p>
+ <p>More To Learn: BEM✅ / Sass / PostCss / TailWind / MaterialUi / StyledComponents✅ / npm / yarn / Jest...</p>
 
 
 ## Stats 👀
